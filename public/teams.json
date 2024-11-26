@@ -1,0 +1,44 @@
+{
+	"teams": [
+		{
+			"name": "Luminosity Gaming",
+			"description": "A top-tier team known for their consistent performance and strong individual players."
+		},
+		{
+			"name": "TSM",
+			"description": "A legendary esports organization with a talented Apex Legends roster."
+		},
+		{
+			"name": "Cloud9",
+			"description": "A strong contender with a skilled and experienced team."
+		},
+		{
+			"name": "Complexity Gaming",
+			"description": "A team with a mix of experienced and up-and-coming players."
+		},
+		{
+			"name": "Sentinels",
+			"description": "A relatively new team that has quickly made a name for itself."
+		},
+		{
+			"name": "Alliance",
+			"description": "A strong European team with a history of success in various esports titles."
+		},
+		{
+			"name": "DarkZero Esports",
+			"description": "A dominant force in the EMEA region, known for their aggressive playstyle."
+		},
+		{
+			"name": "NAVI",
+			"description": "A well-established esports organization with a competitive Apex Legends team."
+		},
+		{
+			"name": "Team Liquid",
+			"description": "A top-tier team with a strong focus on strategy and teamwork."
+		},
+		{
+			"name": "Disguised",
+			"description": "A rising team from the APAC South region, known for their aggressive playstyle and individual skill."
+		}
+	]
+}
