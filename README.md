@@ -1,36 +1,27 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 👋 Hello, I'm Muhammad Musabbir!
 
-## Getting Started
+🎮 **Passionate Gamer** | 🎯 **Web Developer**
 
-First, run the development server:
+I have a deep love for gaming, especially for **Apex Legends** and **Counter-Strike 2**. 🕹️ Recently, I built a fun and interactive web application using **Next.js**!
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Feel free to explore my projects and connect with me!
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📝 About the Project
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Discover the **Top Esports Teams** in the world of **Apex Legends**! 🎮 This project showcases some of the best teams in the game.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+⭐ My favorite team is **TSM** — they’ve captured my admiration with their skills and strategy!
 
-## Learn More
+## 🛠️ Technologies Used
 
-To learn more about Next.js, take a look at the following resources:
+This project is built using the following technologies:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Next.js** - A powerful React framework for building server-rendered applications.
+- **Zod** - A TypeScript-first schema declaration and validation library for type-safe forms.
+- **Formik** - A form management library in React, making form handling simple and efficient.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🎥 Demo
 
-## Deploy on Vercel
+![myfirstgifsearch](https://github.com/user-attachments/assets/9f457b2b-6c6d-4bc3-a54c-5b2cbfaa2067)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+![myfirstgifsearch](https://github.com/user-attachments/assets/e92ec099-0c9b-4fa2-9534-d97b827cb705)
