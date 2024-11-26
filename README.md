@@ -25,3 +25,9 @@ This project is built using the following technologies:
 ![myfirstgifsearch](https://github.com/user-attachments/assets/9f457b2b-6c6d-4bc3-a54c-5b2cbfaa2067)
 
 ![myfirstgifsearch](https://github.com/user-attachments/assets/e92ec099-0c9b-4fa2-9534-d97b827cb705)
+
+## 🤝 Connect with Me
+
+I'm always open to networking and learning new things. Feel free to connect with me on LinkedIn!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-musabbir/)
